@@ -1,0 +1,10 @@
+what you should know:
+
+> Basic JavaScript
+> ES6 Features
+    - var, let, const
+    - arrow function
+    - this keyword
+    - object
+    - class
+    - use of npm
